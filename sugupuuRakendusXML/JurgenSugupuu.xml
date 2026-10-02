@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- jada -->
+<inimene synd="1929">
+	<nimi>
+		Taisia
+	</nimi>
+	<lapsed>
+		<inimene synd="1954">
+			<nimi>
+				Igor
+			</nimi>
+			<lapsed>
+				<inimene synd="2001">
+					<nimi>
+						Daniel
+					</nimi>
+				</inimene>
+				<inimene synd="2005">
+					<nimi>
+						Markkkkk
+					</nimi>
+				</inimene>
+				<inimene synd="2017">
+					<nimi>
+						Damir
+					</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
