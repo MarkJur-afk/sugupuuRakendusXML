@@ -100,6 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Reisid.aspx" />
     <Content Include="Contact2.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
@@ -124,6 +125,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="JurgenSugupuu.xml" />
+    <Content Include="Reis.xml" />
+    <Content Include="ReisParing.xslt" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -200,6 +203,13 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Reisid.aspx.cs">
+      <DependentUpon>Reisid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reisid.aspx.designer.cs">
+      <DependentUpon>Reisid.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Contact2.aspx.cs">
       <DependentUpon>Contact2.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
