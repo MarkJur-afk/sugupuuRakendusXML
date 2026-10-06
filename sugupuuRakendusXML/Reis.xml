@@ -5,6 +5,7 @@
 		<Nimetus>Circle</Nimetus>
 		<Riik>Indonesia</Riik>
 		<Pikkus>3</Pikkus>
+		<reisihind>100</reisihind>
 	</suund>
 	<suund id="Russia">
 		<Nimetus>Park</Nimetus>
@@ -35,21 +36,25 @@
 		<Nimetus>Point</Nimetus>
 		<Riik>Palestinian Territory</Riik>
 		<Pikkus>4</Pikkus>
+		<reisihind>4</reisihind>
 	</suund>
 	<suund id="United States">
 		<Nimetus>Terrace</Nimetus>
 		<Riik>China</Riik>
 		<Pikkus>3</Pikkus>
+		<reisihind>3</reisihind>
 	</suund>
 	<suund id="Russia">
 		<Nimetus>Terrace</Nimetus>
 		<Riik>Philippines</Riik>
 		<Pikkus>4</Pikkus>
+		<reisihind>2</reisihind>
 	</suund>
 	<suund id="Russia">
 		<Nimetus>Parkway</Nimetus>
 		<Riik>Slovenia</Riik>
 		<Pikkus>3</Pikkus>
+		<reisihind>1</reisihind>
 	</suund>
 	<suund id="Venezuela">
 		<Nimetus>Park</Nimetus>
@@ -110,16 +115,19 @@
 		<Nimetus>Center</Nimetus>
 		<Riik>Switzerland</Riik>
 		<Pikkus>3</Pikkus>
+		<transport>bus</transport>
 	</suund>
 	<suund id="Madagascar">
 		<Nimetus>Road</Nimetus>
 		<Riik>Russia</Riik>
 		<Pikkus>3</Pikkus>
+		<transport>lennuk</transport>
 	</suund>
 	<suund id="Bhutan">
 		<Nimetus>Hill</Nimetus>
 		<Riik>Sweden</Riik>
 		<Pikkus>3</Pikkus>
+		<transport>bus</transport>
 	</suund>
 	<suund id="Czech Republic">
 		<Nimetus>Junction</Nimetus>
