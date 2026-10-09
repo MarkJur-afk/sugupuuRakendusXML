@@ -10878,20 +10878,24 @@ textarea.form-control-lg {
   }
 }
 
-table tr:nth-child(even) {
-    background-color: #f2f2f2;
+.reisid-table {
+    border-collapse: collapse;
 }
 
-table td {
-    border: 10px solid black;
-}
+    .reisid-table tr:nth-child(even) {
+        background-color: #f2f2f2 !important;
+    }
 
-table th {
-    border: 10px solid black;
-    padding: 8px;
-    background-color: darkgray;
-    text-align: center;
-}
+    .reisid-table td {
+        border: 1px solid black;
+        padding: 8px;
+    }
 
+    .reisid-table th {
+        border: 1px solid black;
+        padding: 8px;
+        background-color: darkgray;
+        text-align: center;
+    }
 
 /*# sourceMappingURL=bootstrap.css.map */
